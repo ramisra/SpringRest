@@ -6,6 +6,7 @@ import java.util.Date;
 /**
  * Created by ratikesh on 1/8/16.
  */
+@Table(name = "productSKURules")
 public class ProductSKURules {
 
     @Id
